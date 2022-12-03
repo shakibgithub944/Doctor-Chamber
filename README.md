@@ -1,6 +1,6 @@
 # Live site [Doctor Chamber](https://doctorchamber-ae2a3.web.app/)
 --- 
-# This is a healthcare website. Where a user can get appointment for her problem. User can get appointment at a convenient time. This website contains some medical categories. A user can book an appointment in a single category at the same date and user can make payment for appointment.This website containS some powefull function. For authentication i used firbase and all data stored in MongoDB.
+### This is a healthcare website. Where a user can get appointment for her problem. User can get appointment at a convenient time. This website contains some medical categories. A user can book an appointment in a single category at the same date and user can make payment for appointment.This website containS some powefull function. For authentication i used firbase and all data stored in MongoDB.
   
 
 * Used technology.
